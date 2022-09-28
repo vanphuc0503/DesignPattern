@@ -1,7 +1,1 @@
- ![](/images/patterns/content/index/full/patterns-01.png) 
- ![](/images/patterns/content/index/full/patterns-02.png) 
- ![](/images/patterns/content/index/full/patterns-03.png) 
- ![](/images/patterns/content/index/full/patterns-04.png) 
- ![](/images/patterns/content/index/full/patterns-05.png) 
- ![](/images/patterns/content/index/full/patterns-06.png) 
- ![](/images/patterns/content/index/full/patterns-07.png)
+ ![]([](https://refactoring.guru/design-patterns/images/patterns/content/index/full/patterns-01.png)) 
