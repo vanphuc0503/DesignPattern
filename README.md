@@ -1,1 +1,1 @@
- ![]([](https://refactoring.guru/design-patterns/images/patterns/content/index/full/patterns-01.png)) 
+ ![haha](https://refactoring.guru/design-patterns/images/patterns/content/index/full/patterns-01.png)
